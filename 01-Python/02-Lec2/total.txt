@@ -1,0 +1,32 @@
+============
+| hafuia
+| 0xb34a47885262f9d8673dc77de7b583961134f09fb03620b29d282c32ee6932be
+| 0xD0b2612a6eE3111114b43b25322C6F08A251D38D
+| Total: 47.62874464666479$
+|
+|
+| Tokens eth:
+| 20.608732$ MANA
+|
+| Protocols cro:
+| 17.840052$ VVS Finance
+| 8.953779$ V3S Finance
+============
+| asdf
+| 0x72e164aa187feaff7cb28a74b7ff800a0dfe916594c70f141069669e9df5a23b
+| 0xC7dFe558ed09F0f3b72eBb0A04e9d4e99af0bd0D
+| Total: 22.908481672796988$
+|
+|
+| Tokens eth:
+| 22.376087$ SOS
+============
+| asdf
+| 0xbce666bca3c862a2ee44651374f95aca677de16b4922c6d5e7d922cc0ac42a3d
+| 0x5870923a244f52fF2D119fbf5525421E32EC006e
+| Total: 9.077030269778557$
+|
+|
+| Tokens eth:
+| 8.942218$ SOS
+============
